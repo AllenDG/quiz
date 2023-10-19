@@ -1,0 +1,32 @@
+
+@import '../../../props' ;
+
+.sub
+{
+	background: linear-gradient(to right, #e91e62f3, #ff6f61); 
+  border: 2px solid #c8c3c5;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); 
+	.container
+	{
+		.row
+		{
+			.c
+			{
+				.right-side
+				{
+					.big-title
+					{
+						font-size: 25px ;
+						color: #fff ;
+						font-weight: bolder ;
+					}
+					.text
+					{
+						color: #fff;
+						font-size: 17px ;
+					}
+				}
+			}
+		}
+	}
+}
